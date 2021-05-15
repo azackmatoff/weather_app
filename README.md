@@ -12,6 +12,22 @@ A Weather Flutter App by AZ Ackmatoff.
 
 as for UI, I'm using https://github.com/Rajchowdhury420/Flutter-Weather 
 
+
+## Screenshots
+
+
+<p float="left">
+  <img src="https://github.com/azackmatoff/weather_app/blob/master/screenshots/flutter_weather_app.jpg" width="300" />
+ 
+</p>
+
+## keywords
+flutter weather app,
+flutter getx example with rest api,
+flutter getx weather app,
+github flutter getx example,
+github flutter weather app example,
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
