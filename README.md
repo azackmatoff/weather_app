@@ -1,4 +1,12 @@
 # weather_app
+Weather App that uses openweathermap.org API.
+GetX is used as for the state management.
+
+Checks internet connection and if internet is not available, fetches data from cache.
+
+If no interent neither data from cache are available, let's user know about it.
+
+Get's weather info by user's location or user can enter any city and see the weather data as well.
 
 A new Flutter project.
 
