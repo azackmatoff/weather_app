@@ -1,0 +1,51 @@
+name: weather_app
+description: A Weather App by AZ Ackmatoff.
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  #state management and microframework, also known as GetX
+  get: 4.1.4
+  flutter:
+    sdk: flutter
+
+  #local storage
+  shared_preferences: ^2.0.5
+
+  #http client
+  http: ^0.13.3
+
+  #to manage different app configurations
+  global_configuration: ^2.0.0-nullsafety.1
+
+  #geolocation
+  geolocator: ^7.0.3
+
+  #fonts
+  google_fonts: ^2.0.0
+
+  #DateTime converting
+  intl: ^0.17.0
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/cfg/configurations.json
+    - assets/images/
+
+  fonts:
+    - family: WeatherIcons
+      fonts:
+        - asset: assets/fonts/weathericons-regular.ttf
