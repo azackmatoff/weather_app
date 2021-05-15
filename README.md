@@ -21,6 +21,10 @@ as for UI, I'm using https://github.com/Rajchowdhury420/Flutter-Weather
  
 </p>
 
+## Download APK here
+
+- [download](https://disk.yandex.ru/d/Khwhhq0S0NKHtQ)
+
 ## keywords
 flutter weather app,
 flutter getx example with rest api,
