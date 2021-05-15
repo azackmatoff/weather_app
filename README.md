@@ -10,6 +10,8 @@ Get's weather info by user's location or user can enter any city and see the wea
 
 A Weather Flutter App by AZ Ackmatoff.
 
+as for UI, I'm using https://github.com/Rajchowdhury420/Flutter-Weather 
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
