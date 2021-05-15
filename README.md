@@ -8,7 +8,7 @@ If no interent neither data from cache are available, let's user know about it.
 
 Get's weather info by user's location or user can enter any city and see the weather data as well.
 
-A new Flutter project.
+A Weather Flutter App by AZ Ackmatoff.
 
 ## Getting Started
 
