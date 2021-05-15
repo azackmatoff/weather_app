@@ -17,7 +17,7 @@ as for UI, I'm using https://github.com/Rajchowdhury420/Flutter-Weather
 
 
 <p float="left">
-  <img src="https://github.com/azackmatoff/weather_app/blob/master/screenshots/flutter_weather_app.jpg" width="300" />
+  <img src="https://github.com/azackmatoff/weather_app/blob/master/screenshots/flutter_weather_app.jpeg" width="300" />
  
 </p>
 
